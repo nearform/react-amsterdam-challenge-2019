@@ -1,0 +1,29 @@
+.App {
+  padding: 40px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.App-logo {
+  pointer-events: none;
+}
+
+.App-color1 {
+  color: #f1c5c1;
+}
+
+.App-color2 {
+  color: #ed829e;
+}
+
+.App-color3 {
+  color: #ed7e66;
+}
+
+.App-button {
+  background-color: #f4f4f2;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 20px;
+  border-radius: 5px;
+}
