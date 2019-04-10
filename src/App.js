@@ -10,29 +10,12 @@ const App = () => {
 
   return (
     <div className="App">
-      <img className="App-logo" src={NearFormLogo} alt="NearForm" />
-      <h1 className="App-color1">
-        Nearform React Amsterdam Coding Challenge 2019
-      </h1>
-      <h2 className="App-color2">
-        Build a fun and creative app using our Open Source Library 'React
-        Browser Hooks'
-      </h2>
-      <h2 className="App-color3">
-        Choose from fullscreen, geolocation, clickoutside and many others to
-        build something cool.
-      </h2>
-      <h2 className="App-color1">
-        See README.md for rules of engagement, and links to our component
-        storybook detailing all the hooks available + examples.
-      </h2>
       <div ref={element}>
-        <h3>This is a simple example to get your started...</h3>
+        <h3>My App...</h3>
         <button class="App-button" onClick={fs.toggle}>
           {fs.fullScreen ? "Close Fullscreen" : "Open Fullscreen"}
         </button>
       </div>
-      <h1>Happy Hacking :-)</h1>
     </div>
   );
 };
