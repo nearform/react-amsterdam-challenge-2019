@@ -31,11 +31,11 @@ When done, simply make a pull request and tag @cianfoley-nearform we will evalua
 
 Here is a rough guide in terms of what we are looking for:
 
-:white_check_mark: It must work for us using ‘npm start’, as per the sample!
-:white_check_mark: The best use of our browser hooks
-:white_check_mark: Use of standard React hooks / your own custom hooks, we don't want to see Classes
-:white_check_mark: Best suggestions for other browser hooks not included in our library and your feedback (please add this in the comments section of your PR)
-:white_check_mark: Great code! :thumbsup:
+- [x] It must work for us using ‘npm start’, as per the sample!
+- [x] The best use of our browser hooks
+- [x] Use of standard React hooks / your own custom hooks, we don't want to see Classes
+- [x] Best suggestions for other browser hooks not included in our library and your feedback (please add this in the comments section of your PR)
+- [x] Great code! :thumbsup:
 
 ## Winners :trophy:
 
