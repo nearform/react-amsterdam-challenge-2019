@@ -21,11 +21,11 @@ Also, for some inspiration, check out this nifty demo by @donovanh on [codepen](
 
 Follow these 3 simple steps:
 
-1. `Create` a branch from this repository
-2. `Clone` the repo, switch to your branch, and type ‘npm install' and then 'npm start' to make sure it works locally for you. You should see the app running with a button that uses the fullScreen hook. Try that out.
+1. `Fork` from this repository
+2. `Clone` your fork, and type ‘npm install' and then 'npm start' to make sure it works locally. You should see the app running with a button that uses the fullScreen hook. Try that out.
 3. `Import` as many of the hooks as you like into your App and start coding!
 
-When done, simply make a pull request and tag @cianfoley-nearform we will evaluate ASAP.
+When done, simply make a pull request back to the nearform repo tagging @cianfoley-nearform we will evaluate ASAP.
 
 ## Scoring
 
