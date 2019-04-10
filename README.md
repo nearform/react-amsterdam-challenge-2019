@@ -1,4 +1,4 @@
-# Welcome to the NearForm React Amsterdam Browser Hooks Challenge 2019 :smiley:
+# Welcome to the NearForm React Amsterdam Browser Hooks Challenge 2019
 
 At NearForm, our front end developers saw a problem whereby everyday browser events were polluting the core functionality of components. It forced us to use Classes to manage state, registering and deregistering events using lifecycle methods, not to mention catering for browser compatibility. It was a case of re-inventing the wheel every time we wanted to use a core browser event and related functions.
 
@@ -17,7 +17,7 @@ Also, for some inspiration, check out this nifty demo by @donovanh on [codepen](
 
 :heart:
 
-## Rules of Engagement
+## Rules of Engagement :boom:
 
 Follow these 3 simple steps:
 
