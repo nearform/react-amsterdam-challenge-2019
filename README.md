@@ -1,42 +1,56 @@
-# Welcome to the NearForm React Amsterdam Browser Hooks Challenge 2019
+# Welcome to the NearForm React Amsterdam Browser Hooks Challenge 2019 :smiley:
 
-At NearForm, our front end developers saw a problem whereby everyday browser events
-were polluting the core functionality of components. It forced us to use Classes to manage state, registering and deregistering events using lifecycle methods, not to mention catering for browser compatibility. It was a case of re-inventing the wheel everytime we wanted to use a core browser event and related functions.
+At NearForm, our front end developers saw a problem whereby everyday browser events were polluting the core functionality of components. It forced us to use Classes to manage state, registering and deregistering events using lifecycle methods, not to mention catering for browser compatibility. It was a case of re-inventing the wheel every time we wanted to use a core browser event and related functions.
 
 Custom hooks made it possible to create a neat and tidy re-usable library called [React Browser Hooks](https://github.com/nearform/react-browser-hooks) that puts all code related to specific browser functionalty into modular custom hooks.
 
 With one line of code you can now import functionality would previously have polluted a component with sometimes 50 or more extra lines of code, not to mention the time saved looking up Stack Overflow and catering for
 edge cases, multiple browsers etc.
 
-We want you to use our browser hooks library to create something interestting. Be creative, make it fun and use as many hooks as you like.
+We want you to use our browser hooks library to create something interesting. Be creative, make it fun and use as many hooks as you like.
 
 Please visit our [component storybook](https://react-browser-hooks.netlify.com) to see examples of each hook in action and read the documentation.
+
+You can read more about React Browser Hooks in this [blog post](https://www.nearform.com/blog/say-hello-to-react-browser-hooks/)
+
+Also, for some inspiration, check out this nifty demo by @donovanh on [codepen](https://codepen.io/donovanh/full/dajZBd) using a selection of the hooks in this library
+
+:heart:
 
 ## Rules of Engagement
 
 Follow these 3 simple steps:
 
 1. `Create` a branch from this repository
-2. `Clone` it, 'npm install' and 'npm start' to make sure it works locally
-3. `Import` as many of the hooks as you like into your App and get busy!
+2. `Clone` the repo, switch to your branch, and type ‘npm install' and then 'npm start' to make sure it works locally for you. You should see the app running with a button that uses the fullScreen hook. Try that out.
+3. `Import` as many of the hooks as you like into your App and start coding!
 
-When done, simply make a pull request and tag @cianfoley-nearform we will evaluate in due course.
+When done, simply make a pull request and tag @cianfoley-nearform we will evaluate ASAP.
 
 ## Scoring
 
-You will get up to 20 marks for each of the evaluation criteria:
+Here is a rough guide in terms of what we are looking for:
 
-- `50 marks` based on what your `working` app does
-- `20 marks` for the best use of our browser hooks and how many were used
-- `10 marks` for great code
-- `10 marks` for use of react hooks / custom hooks, we don't want to see Classes
-- `10 marks` for best suggestions of hooks not included in our library and your feedback (please add this in the comments section of your PR)
+:white_check_mark: It must work for us using ‘npm start’, as per the sample!
+:white_check_mark: The best use of our browser hooks
+:white_check_mark: Use of standard React hooks / your own custom hooks, we don't want to see Classes
+:white_check_mark: Best suggestions for other browser hooks not included in our library and your feedback (please add this in the comments section of your PR)
+:white_check_mark: Great code! :thumbsup:
 
-## Winners
+## Winners :trophy:
 
-That's it. Winners will be announced as soon as we get through all entries.
+The prize for the winner is a 3-day Ticket to NodeConfEU 2019 in Kilkenny, Ireland to the value of €799.
 
-We will merge the winning branch into the repository :-)
+Best of luck :four_leaf_clover:
+
+## Terms and Conditions
+
+- The competition is open to React Amsterdam 2019 registered delegates/attendees
+- Entries should be submitted between 14.00 CET Wednesday 10th April to 14.00 CET Friday 12th April 2019
+- Entries will be judged by a panel appointed by Nearform and the winning entry will be selected at the panel’s sole discretion. It will not be possible to give individual feedback on all entries. The panel’s decision will be final.
+- All entries must be made available under an approved OSI license
+- The prize includes an attendance ticket for NodeConfEU 2019; flights and accommodation are not included
+- The prize may not be exchanged for cash; it may be transferred on notice to Nearform and may not be offered for sale
 
 ---
 
