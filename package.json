@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://emasuriano.github.io/react-amsterdam-challenge-2019",
   "dependencies": {
-    "add": "^2.0.6",
     "dotenv": "^7.0.0",
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
@@ -12,9 +11,7 @@
     "react-dom": "^16.8.6",
     "react-google-maps": "^9.4.5",
     "react-loading-overlay": "^1.0.1",
-    "react-scripts": "2.1.8",
-    "react-timer-hook": "^1.1.4",
-    "yarn": "^1.15.2"
+    "react-scripts": "2.1.8"
   },
   "scripts": {
     "predeploy": "npm run build",
