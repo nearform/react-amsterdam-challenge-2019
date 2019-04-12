@@ -10,6 +10,8 @@ You can read more about React Browser Hooks in this [blog post](https://www.near
 
 > Get the user location, show a map with a marker where the user is located right now and then just by moving the mouse the user can navigate the surroundings of the map.
 
+**This project is intended to be used in Desktop, mobile won't work!**
+
 ![Apr-12-2019 12-06-18](https://user-images.githubusercontent.com/3399429/56029784-75996c80-5d1b-11e9-97a2-36fe663fada6.gif)
 
 The goal of the project was to combine two of the hooks from the library:
