@@ -16,3 +16,12 @@ The goal of the project was to combine two of the hooks from the library:
 - `useMousePosition`: gives the position `x` and `y` of the user's pointer.
 
 Then I combine those two with the Goggle maps API which allows me to render a map with the marker of the user and also move it via props. For the integration of Google maps and React, I used `react-google-maps`.
+
+Other hooks being used:
+
+- useState: to trackt the center of the screen
+- useEffect: to avoid re-rendering the whole App when the user doesn't move the pointer.
+
+## Demo
+
+![Apr-12-2019 12-06-18](https://user-images.githubusercontent.com/3399429/56029784-75996c80-5d1b-11e9-97a2-36fe663fada6.gif)
